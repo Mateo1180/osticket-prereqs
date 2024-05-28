@@ -39,10 +39,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/Wpqgz03" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Wpqgz03"/>
 </p>
 <p>
-First I started out by creating a virtual Machine using Microsoft Azure. Then I download Microsoft Remote Desktop onto my Mac computer which, I use to run the virtual machine that I created in Azure. The reason I am performing all of these steps so far is because I have no way of installing osTicket on my Mac. So I need a way of using a Windows Operating System on my Mac. Azure and Remote Desktop allowed me to do just that. 
+First I started out by creating a virtual Machine using Microsoft Azure. Then I downloaded Microsoft Remote Desktop onto my Mac computer which, I use to run the virtual machine that I created in Azure. The reason I am performing all of these steps so far is that I have no way of installing osTicket on my Mac. So I need a way of using a Windows Operating System on my Mac. Azure and Remote Desktop allowed me to do just that. 
 </p>
 <br />
 
